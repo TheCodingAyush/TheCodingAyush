@@ -12,8 +12,7 @@ contributing clean, well-tested code.
 - Interests: Open source, backend systems, developer tooling
 
 ## Current Focus
-- Contributing to AOSSIE open source projects
-- Contributing to Python ecosystem projects
+- Contributing to open source projects
 - Preparing for Google Summer of Code (GSoC)
 
 ## Contact
