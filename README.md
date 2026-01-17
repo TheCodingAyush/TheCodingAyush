@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayush 👋
 
-<!--
-**TheCodingAyush/TheCodingAyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science student interested in open source,
+developer tools, and systems-oriented projects.
 
-Here are some ideas to get you started:
+I enjoy reading and working with medium-to-large codebases and
+contributing clean, well-tested code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & Tools
+- Languages: Python, C++, Java, TypeScript
+- Tools: Git, GitHub, Linux, VS Code
+- Interests: Open source, backend systems, developer tooling
+
+## Current Focus
+- Contributing to AOSSIE open source projects
+- Contributing to Python ecosystem projects
+- Preparing for Google Summer of Code (GSoC)
+
+## Contact
+- GitHub: https://github.com/TheCodingAyush
+- Email: ayushsonone2005@gmail.com
