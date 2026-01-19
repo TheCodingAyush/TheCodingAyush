@@ -13,7 +13,6 @@ contributing clean, well-tested code.
 
 ## Current Focus
 - Contributing to open source projects
-- Preparing for Google Summer of Code (GSoC)
 
 ## Contact
 - GitHub: https://github.com/TheCodingAyush
